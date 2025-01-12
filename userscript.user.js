@@ -6,8 +6,8 @@
 // @match        https://bonkiscoolsite.neocities.org/os/
 // @icon         https://www.example.com/favicon.ico
 // @grant        none
-// @updateURL    https://lmaosofts.github.io/SigmaApp/userscript.js
-// @downloadURL  https://lmaosofts.github.io/SigmaApp/userscript.js
+// @updateURL    https://lmaosofts.github.io/SigmaApp/userscript.user.js
+// @downloadURL  https://lmaosofts.github.io/SigmaApp/userscript.user.js
 // ==/UserScript==
 
 (function() {
