@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         sigma app for bonkios
 // @namespace    http://tampermonkey.net/
-// @version      -1
+// @version      1
 // @author       lmaosofts
 // @match        https://bonkiscoolsite.neocities.org/os/
-// @icon         https://www.example.com/favicon.ico
+// @icon         https://lmaosofts.github.io/SigmaApp/sigma.png
 // @grant        none
+// @description  
 // @updateURL    https://lmaosofts.github.io/SigmaApp/userscript.user.js
 // @downloadURL  https://lmaosofts.github.io/SigmaApp/userscript.user.js
 // ==/UserScript==
